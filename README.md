@@ -1,4 +1,4 @@
-# SQL-for-Data-Analysis-with-Microsoft-SQL-Server
+# SQL for Data Analysis with Microsoft SQL Server
 
 Following topics are explored: <br><br>
 <b>1.</b> To query databases with SQL<br>
