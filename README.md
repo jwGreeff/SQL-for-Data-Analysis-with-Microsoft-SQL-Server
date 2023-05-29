@@ -1,6 +1,6 @@
 # SQL-for-Data-Analysis-with-Microsoft-SQL-Server
 
-Following topics are explored: <br>
+Following topics are explored: <br><br>
 <b>1.</b> To query databases with SQL<br>
 <b>2.</b> Installing and working with Microsoft SQL Server 2019 and SQL Server Management Studio<br>
 <b>3.</b> Use SQL to apply complex criteria and transformations to database data<br>
